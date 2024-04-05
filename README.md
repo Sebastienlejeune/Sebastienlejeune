@@ -1,6 +1,8 @@
 # Hi there, I'm Sébastien LEJEUNE 👋
 [![Linkedin Badge](https://img.shields.io/badge/-slejeune-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s%C3%A9bastien-lejeune-26290a15/)](https://www.linkedin.com/in/s%C3%A9bastien-lejeune-26290a15/)
 
+![Thales OSS Banner](./media/Thales_OSS_Banner_2023.png)
+
 ## 📡 Current Status :
 - 💼 Thales Open Source Advocate at [Thales](https://thalesgroup.com)
 - 🎸 Individual guitar player
