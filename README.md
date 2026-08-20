@@ -1,31 +1,31 @@
-# Hi there, I'm Sébastien LEJEUNE 👋
-[![Linkedin Badge](https://img.shields.io/badge/-slejeune-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s%C3%A9bastien-lejeune-26290a15/)](https://www.linkedin.com/in/s%C3%A9bastien-lejeune-26290a15/)
+# Hi there, I'm Sébastien Lejeune 👋
 
-![Thales OSS Banner](./Thales_OSS_Banner_2023.png)
+[![LinkedIn](https://img.shields.io/badge/-s%C3%A9bastien--lejeune-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9bastien-lejeune-26290a15/)
+[![Thales GitHub](https://img.shields.io/badge/-ThalesGroup-000?style=flat&logo=github&logoColor=white)](https://github.com/thalesgroup)
 
-## 📡 Current Status :
-- 💼 Thales Open Source Advocate at [Thales](https://thalesgroup.com)
-- 🎸 Individual guitar player
-- ♟️ Passionate chess player
-- 🎵 Love 70' rock music and most of metal styles
-- 📫 How to reach me: sebastien.lejeune@thalesgroup.com
-- 🔭 I’m currently working on disseminating Open Source practices
+![Empowering Open Collaboration](./IOSPO_Banner.png)
+
+## 📡 Currently
+
+- 💼 **Thales Open Source Director** at [Thales](https://thalesgroup.com) — building and running the Group's Inner & Open Source Program Office
+- 🔭 Disseminating Open Source practices across Thales: governance, foundations, communities, hackathons
+- 🏆 Proud of the team's **"Best Open Source Strategy"** award (CNLL, Open Source Experience, Dec 2025)
+- 🎸 Guitar player · ♟️ Chess enthusiast · 🎵 70's rock & metal
+
+📫 Reach me at **sebastien.lejeune@thalesgroup.com**
 
 <div align="center">
   <a href="https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva">
-    <img src="https://aamoyel.vercel.app/api/now-playing" alt="">
+    <img src="https://aamoyel.vercel.app/api/now-playing" alt="Now playing on Spotify">
   </a>
 </div>
 
-</br>
+## 📊 Stats
 
-## 📊 Stats :
-</br>
 <div align="center">
 
 [![](https://github-readme-stats.vercel.app/api?username=Sebastienlejeune&show_icons=true&theme=tokyonight&hide_border=true&locale=en&range=all_time)](https://github.com/Sebastienlejeune)
 
-</div>
 </div>
 
 <p align="center">
